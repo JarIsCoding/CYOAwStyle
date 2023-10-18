@@ -1,11 +1,14 @@
+/*Make sure to make different classes for your headers*/
 h1 {
     text-align: center;
 }
 
+/*Center the text here*/
 .centered {
     text-align: center;
 }
 
+ /* Use this class for the start/next/end buttons, they are in the middle*/
 .startbutton {
     width: 500px;
     height: 150px;
@@ -13,6 +16,7 @@ h1 {
     margin-left: 500px;
 }
 
+ /* Use this class for the choice buttons, they are spaced closer*/
 .choiceButtons {
     width: 500px;
     height: 150px;
@@ -20,6 +24,14 @@ h1 {
     margin-left: 150px;
 }
 
+/*Bigger text add more if you want specific sizes -Jared*/
 .bigText {
     font-size: 30px;
+}
+
+/*Ill find a better picture somewhere or add one if you got one for the title screen -Jared*/
+.startImg {
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
 }
