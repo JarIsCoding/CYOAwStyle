@@ -16,13 +16,14 @@ h1 {
     margin-left: 500px;
 }
 
- /* Use this class for the choice buttons, they are spaced closer*/
-.choiceButtons {
+ /* Use this class for the choice buttons, they are spaced closer(edit I removed the button to fit the theme - Jared)*/
+/* .choiceButtons {
     width: 500px;
     height: 150px;
     margin-top: 100px;
-    margin-left: 150px;
-}
+    margin-right: 100px;
+    margin-left: 50px;
+} */
 
 /*Bigger text add more if you want specific sizes -Jared*/
 .bigText {
