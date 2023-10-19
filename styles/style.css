@@ -113,3 +113,71 @@ h1 {
     right: 27%;
     top: 35%;
 }
+
+
+/* gets rid of any white spaces in the BG -Liam */
+.coffeebody{
+    background-image: url(../assets/ruben-ramirez-coffeeshop-unsplash.jpg);
+}
+
+/* sets the Back Ground image width- Liam */
+.BG{
+    width: 100%
+}
+
+/* gif image placement -Liam */
+.imgCatPosition{
+    position: absolute;
+    right: 35%;
+    top: 35%;
+}
+
+.imgCoffePosition{
+    position:
+}
+
+/* placement of my headers -Liam */
+.header {
+    font-size: 45px;
+    position: absolute;
+    top:200px;
+    left:11%;
+    color:bisque;
+}
+
+/* styles the text -Liam */
+.coffeetext {
+    
+    background-color:rgba(79, 76, 72, 0.781);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    position: absolute;
+    top:650px;
+    left:11%;
+    right:11%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.coffeetext button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    position: absolute;
+    top:200px;
+    right:1%;
+    width: 20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    box-shadow: 2px 2px 2px 2px teal;
+}
+
+/* gets rid of the underline of the hyperlink */
+.coffeetext a {
+    text-decoration: none;
+    color: black;
+}
+
+
