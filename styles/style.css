@@ -114,3 +114,22 @@ h1 {
     right: 27%;
     top: 35%;
 }
+
+.indexbody {
+    background-image: url();
+}
+
+.pagebody1 {
+    background-image: url(../assets/andrew-neel-B4rEJ09-Puo-unsplash.jpg);
+    background-size: 100%;
+}
+
+.pagebody2 {
+    background-image: url(../assets/david-streit-BumOnw4oEZo-unsplash.jpg);
+    background-size: 100%;
+}
+
+.pagebody3 {
+    background-image: url(../assets/istockphoto-1147445727-612x612.jpg);
+    background-size: 100%;
+}
