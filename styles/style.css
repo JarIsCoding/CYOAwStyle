@@ -8,13 +8,13 @@ h1 {
     text-align: center;
 }
 
- /* Use this class for the start/next/end buttons, they are in the middle*/
-.startbutton {
+ /* Use this class for the start/next/end buttons, they are in the middle(more style changes make this button irrevelant)*/
+/*.startbutton {
     width: 500px;
     height: 150px;
     margin-top: 100px;
     margin-left: 500px;
-}
+}*/
 
  /* Use this class for the choice buttons, they are spaced closer(edit I removed the button to fit the theme - Jared)*/
 /* .choiceButtons {
