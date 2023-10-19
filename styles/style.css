@@ -35,3 +35,26 @@ h1 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+/* created a class for the body, so that I can change background image -Halley */
+.katabody {
+    background-image: url(../assets/codestackbackdrop.png);
+    background-size: 100%;
+}
+
+/* Aligning image to the center -Halley*/
+.flexContent {
+    display: flex;
+    justify-content: center;
+}
+
+/* Styling a div containing my p tags and button tags -Halley*/
+.katatext {
+    background-color: paleturquoise;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
