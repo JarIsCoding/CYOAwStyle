@@ -59,3 +59,58 @@ h1 {
     margin-right: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+/* from .katatext button to .katatext a: hover, it's styling the buttons and the hovers -Halley */
+.katatext button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    width: 20%;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    box-shadow: 2px 2px 2px 2px rgb(61, 204, 185);
+}
+
+.katatext a {
+    text-decoration: none;
+    color: black;
+}
+
+.katatext button:hover{
+    background-color: darkcyan;
+}
+
+.katatext a:hover {
+    color: blanchedalmond;
+}
+
+.katabody2 {
+    background-image: url(../assets/katabackground.jpg);
+    background-size: 100%;
+}
+
+/*  From line below to .katabody 3 {}, reusing classes for other pages to have similar styling but also changing small things such as margins, opacity -Halley*/
+.katabody2 .katatext,
+.katabody3 .katatext {
+    opacity: .9;
+}
+
+.katabody2 .flexContent,
+.katabody3 .flexContent {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.katabody3 {
+    background-image: url(../assets/katabackground2.jpg);
+    background-size: 100%;
+}
+
+/* this class style is only for one picture. I wanted this picture in a certain position than the others so it's not reused -Halley*/
+.imgPosition{
+    position: absolute;
+    right: 27%;
+    top: 35%;
+}
