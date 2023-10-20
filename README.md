@@ -9,5 +9,5 @@ NOTE: Be sure to click on the text inside of the buttons, so that they go to the
 
   - Jared : I worked on the first 4 pages (including the index). I used basic tags at first then changed to div so I could distgush the classes eaiser. After writing the basic code and making the pages work properly, I finished the styling based of Halley's.
 
-- Peer Reviewer(s):
-  - Feedback:
+- Peer Reviewer(s):Bria, Chris, Max
+  - Feedback: Great job!! Love the theme consistant all the way through the whole website. Didn't run into any errors. Play Again was a nice touch! 
