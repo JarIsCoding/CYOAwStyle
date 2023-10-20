@@ -146,6 +146,15 @@ h1 {
     height: 100%;
 }
 
+.header {
+
+    font-size: 50px;
+    position: absolute;
+    top: 225px;
+    left:12%;
+    color:blanchedalmond;
+
+}
 /* gif image placement -Liam */
 .imgCatPosition{
     position: absolute;
@@ -157,6 +166,40 @@ h1 {
     position: absolute;
     right: 35%;
     top: 60%;
+}
+
+.coffeetext{
+
+    background-color:rgba(79, 76, 72, 0.781);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    position: absolute;
+    top:600px;
+    left:11%;
+    right:11%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.coffeetext button{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    position: absolute;
+    top:200px;
+    right:1%;
+    width: 20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    box-shadow: 2px 2px 2px 2px teal;
+}
+
+.coffeetext a {
+    text-decoration: none;
+    color: black;
 }
 /* higlights the button when user hovers over it -Liam */
 .coffeetext button:hover{
