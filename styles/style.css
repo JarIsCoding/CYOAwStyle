@@ -133,3 +133,194 @@ h1 {
     background-image: url(../assets/istockphoto-1147445727-612x612.jpg);
     background-size: 100%;
 }
+
+/* My part of the work - Liam */
+/* gets rid of any white spaces in the BG -Liam */
+.coffeebody{
+    background-image: url(../assets/ruben-ramirez-coffeeshop-unsplash.jpg);
+}
+
+/* sets the Back Ground image width- Liam */
+.BG{
+    width: 100%;
+    height: 100%;
+}
+
+.header {
+
+    font-size: 50px;
+    position: absolute;
+    top: 225px;
+    left:12%;
+    color:blanchedalmond;
+
+}
+/* gif image placement -Liam */
+.imgCatPosition{
+    position: absolute;
+    right: 35%;
+    top: 35%;
+}
+
+.imgCoffeePosition{
+    position: absolute;
+    right: 35%;
+    top: 60%;
+}
+
+.coffeetext{
+
+    background-color:rgba(79, 76, 72, 0.781);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    position: absolute;
+    top:600px;
+    left:11%;
+    right:11%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.coffeetext button{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    position: absolute;
+    top:200px;
+    right:1%;
+    width: 20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    box-shadow: 2px 2px 2px 2px teal;
+}
+
+.coffeetext a {
+    text-decoration: none;
+    color: black;
+}
+/* higlights the button when user hovers over it -Liam */
+.coffeetext button:hover{
+    background-color:darkgray;
+}
+
+.coffeetext a:hover {
+    color: blanchedalmond;
+}
+
+.coffeebody2 {
+    background-image: url(../assets/alexander-b-sadCat-unsplash.jpg);
+}
+
+.coffeetext2{
+
+    background-color:rgba(79, 76, 72, 0.781);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    position: absolute;
+    top:800px;
+    left:11%;
+    right:11%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.coffeetext2 button{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    position: absolute;
+    top:200px;
+    right:1%;
+    width: 20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    box-shadow: 2px 2px 2px 2px teal;
+}
+
+.coffeetext2 a {
+    text-decoration: none;
+    color: black;
+}
+
+.coffeetext2 button:hover{
+    background-color:darkgray;
+}
+
+.coffeetext2 a:hover {
+    color: blanchedalmond;
+}
+
+
+.endbody {
+    background-image: url(../assets/retrosupply-typewriter-unsplash.jpg);
+}
+
+.endtext {
+    
+    background-color:rgba(79, 76, 72, 0.781);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    position: absolute;
+    top:500px;
+    left:25%;
+    right:25%;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.btn1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    position: absolute;
+    top:200px;
+    right:1%;
+    width: 20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    box-shadow: 2px 2px 2px 2px teal;
+    background-color: azure;
+
+}
+
+.btn2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    position: absolute;
+    top:200px;
+    right:30%;
+    width: 20%;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    box-shadow: 2px 2px 2px 2px teal;
+    background-color: azure;
+
+}
+
+.endtext a {
+    text-decoration: none;
+    color: black;
+}
+
+.endtext button:hover{
+    background-color:darkgray;
+}
+
+.endtext a:hover {
+    color: blanchedalmond;
+}
+
+/* End of my part -Liam */
