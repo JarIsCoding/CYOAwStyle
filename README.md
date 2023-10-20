@@ -1,4 +1,5 @@
 # CYOAwStyle
+NOTE: Be sure to click on the text inside of the buttons, so that they go to the next page. 
 
 - Group: Jared Ly, Liam Garcia, Halley Pham
 - Date Revised: 10/21/23
