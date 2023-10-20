@@ -116,7 +116,8 @@ h1 {
 }
 
 .indexbody {
-    background-image: url(../assets/codestackbackdrop.png);
+    background-image: url(../assets/Screenshot\ 2023-10-20\ 134049.png);
+    background-size: 100%;
 }
 
 .pagebody1 {
@@ -324,3 +325,39 @@ h1 {
 }
 
 /* End of my part -Liam */
+
+/* This kata start text is just a copy of the katatext but for the starting screen to fit the theme -Jared */
+.kataStartText {
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.kataStartText button{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    width: 20%;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    box-shadow: 2px 2px 2px 2px rgb(61, 204, 185);
+}
+.kataStartText a {
+    text-decoration: none;
+    color: black;
+}
+.kataStartText button:hover{
+    background-color: darkcyan;
+}
+.kataStartText a:hover {
+    color: blanchedalmond;
+}
+
+/* This is just to move the text on page one downward -Jared */
+.pageOneMove {
+    margin-top: 550px;
+}
